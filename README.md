@@ -4,7 +4,6 @@
 
 O projeto **Reloginho** é uma aplicação Java que simula um relógio analógico, utilizando classes orientadas a objetos para representar elementos como **ponteiros** e o próprio **relógio**. O foco é demonstrar conceitos de orientação a objetos (OOP) e manipulação de tempo (horas, minutos e segundos) de maneira visual (em ASCII) no terminal.
 
-### 🧭 Diagrama de Classes (Mermaid)
 
 ## 🛠️ Tecnologias Utilizadas
 
