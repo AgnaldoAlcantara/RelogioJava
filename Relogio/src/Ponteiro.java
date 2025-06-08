@@ -1,0 +1,3 @@
+class Ponteiro {
+    int number;
+}
