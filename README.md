@@ -39,6 +39,7 @@ Você verá uma simulação do relógio no terminal sendo atualizada.
 ## ⚠️ Possíveis Problemas / Desafios Enfrentados
 
 - O terminal pode não funcionar corretamente em IDEs que não interpretam bem o uso de `System.out.print("\033[H\033[2J")` (limpeza de tela).
+- A IDE usada para o código foi a intellij
 - A atualização do relógio pode ser limitada à performance do terminal.
 - Falta de interface gráfica limita a usabilidade e visualização.
 
